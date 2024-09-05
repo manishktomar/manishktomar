@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Tomar</h1>
 <h3 align="center">A passionate DevOps Engineer | SRE | Cloud Engineer from India</h3>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=2596be&size=24&width=500&lines=🚀DevOps-Engineer;🚀Cloud-Engineer;🚀Site-Reliability-Engineering;👋Nice+to+meet+you...)
-
 - 🌱 I’m currently learning **DevOps, SRE & Cloud**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://www.linkedin.com/in/manishktomar/)**
@@ -56,5 +54,15 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=manishktomar&show_icons=true&locale=en" alt="manishktomar" width="450" height="250" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishktomar&" alt="manishktomar" width="400" height="200" /> </p>
-<div align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=manishktomar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Contributor Stats" width="500" height="280" /> </div>
+<p align="center">
+  <a href="https://github.com/Yuvadi29">
+    <img height="200em" src="https://github-stats-alpha.vercel.app/api/?username=manishktomar&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
+    <img height="200em" src="https://github-contributor-stats.vercel.app/api?username=manishktomar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Trophies" />
+   </a>
+</p>
+
+<p align="center">
+    <!-- Profile Summary Card -->
+    <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishktomar&theme=algolia" alt="Profile Summary Card" />
+</p>
+
