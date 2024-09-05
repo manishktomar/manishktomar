@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Tomar</h1>
 <h3 align="center">A passionate DevOps Engineer | Cloud Engineer from India</h3>
 
+
 - 🌱 I’m currently learning **DevOps & Cloud**
 
 - 💬 Ask me about **DevOps | SRE | Cloud**
@@ -42,10 +43,6 @@
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
 ![Datadog](https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg)
 ![New Relic](https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg)
-
-#### Favourite IDEs/Editors
-
-![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
 
 #### Programming Languages:
 
