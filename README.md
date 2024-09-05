@@ -56,5 +56,5 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=manishktomar&show_icons=true&locale=en" alt="manishktomar" width="450" height="250" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishktomar&" alt="manishktomar" width="450" height="250" /> </p>
+<p>&nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=manishktomar&show_icons=true&locale=en" alt="manishktomar" width="450" height="250" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishktomar&" alt="manishktomar" width="400" height="200" /> </p>
 <div align="left"> <img src="https://github-contributor-stats.vercel.app/api?username=manishktomar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Contributor Stats" width="500" height="280" /> </div>
