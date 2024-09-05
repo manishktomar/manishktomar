@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **DevOps & Cloud**
 
-- 👨‍💻 All of my projects are available at **[GitHub](https://www.linkedin.com/in/manishktomar/)**
-
 - 💬 Ask me about **DevOps | SRE | Cloud**
+
+- 👨‍💻 All of my projects are available at **[GitHub](https://www.linkedin.com/in/manishktomar/)**
 
 - 📫 How to reach me **manishktomar2@gmail.com**
 
