@@ -56,7 +56,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
-  <a href="https://github.com/Yuvadi29">
+  <a href="https://github.com/manishktomar">
     <img height="177em" src="https://github-stats-alpha.vercel.app/api/?username=manishktomar&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
     <img height="177em" src="https://github-contributor-stats.vercel.app/api?username=manishktomar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Trophies" />
    </a>
