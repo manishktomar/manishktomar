@@ -45,7 +45,7 @@
 
 ![Grafana](https://skillicons.dev/icons?i=grafana)
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
-![Datadog](https://imgix.datadoghq.com/img/about/presskit/logo-v/dd_vertical_white.png?auto=format&fit=max&w=847)
+![Datadog](https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg)
 ![New Relic](https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg)
 
 #### Programming Languages:
