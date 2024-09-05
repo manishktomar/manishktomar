@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Tomar</h1>
-<h3 align="center">A passionate DevOps Engineer | SRE | Cloud Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer | Cloud Engineer from India</h3>
 
-- 🌱 I’m currently learning **DevOps, SRE & Cloud**
+- 🌱 I’m currently learning **DevOps & Cloud**
 
 - 👨‍💻 All of my projects are available at **[GitHub](https://www.linkedin.com/in/manishktomar/)**
 
@@ -56,8 +56,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/Yuvadi29">
-    <img height="170em" src="https://github-stats-alpha.vercel.app/api/?username=manishktomar&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
-    <img height="170em" src="https://github-contributor-stats.vercel.app/api?username=manishktomar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Trophies" />
+    <img height="175em" src="https://github-stats-alpha.vercel.app/api/?username=manishktomar&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats" />
+    <img height="175em" src="https://github-contributor-stats.vercel.app/api?username=manishktomar&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="GitHub Trophies" />
    </a>
 </p>
 
