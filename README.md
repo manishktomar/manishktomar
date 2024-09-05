@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manish Tomar</h1>
 <h3 align="center">A passionate DevOps Engineer | Cloud Engineer from India</h3>
 
+<p align="center">
+    <!-- Profile Summary Card -->
+    <img height="300em" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Profile Summary Card" />
+</p>
 
 - 🌱 I’m currently learning **DevOps & Cloud**
 
