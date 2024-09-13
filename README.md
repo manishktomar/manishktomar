@@ -15,13 +15,13 @@
 - 📫 How to reach me **manishktomar2@gmail.com**
 
 ### ⚙️ &nbsp;My Tech Stack
-#### OS & Cloud Technology:
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Redhat](https://skillicons.dev/icons?i=redhat)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Azure](https://skillicons.dev/icons?i=azure)
+    #### OS & Cloud Technology:
+    
+    ![Linux](https://skillicons.dev/icons?i=linux)
+    ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+    ![Redhat](https://skillicons.dev/icons?i=redhat)
+    ![AWS](https://skillicons.dev/icons?i=aws)
+    ![Azure](https://skillicons.dev/icons?i=azure)
 
 #### Database:
 
