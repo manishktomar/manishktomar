@@ -23,10 +23,11 @@
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Azure](https://skillicons.dev/icons?i=azure)
 
-#### Database:
+#### Database and Webservices:
 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
+![Nginx](https://skillicons.dev/icons?i=nginx)
 
 #### Source code, CI/CD, Automation & Infrastructure: 
 
