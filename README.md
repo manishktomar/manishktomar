@@ -47,6 +47,7 @@
 ![Prometheus](https://skillicons.dev/icons?i=prometheus)
 ![Datadog](https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg)
 ![New Relic](https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg)
+![Elastic](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg)
 
 #### Programming Languages:
 
